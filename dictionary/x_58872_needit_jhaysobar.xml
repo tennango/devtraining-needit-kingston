@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="JHAYSOBar" max_length="40" name="x_58872_needit_jhaysobar" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de Bebida:" mandatory="true" max_length="40" name="bar_bebida" type="string">
+            <choice>
+                <element label="Tequila Azul" sequence="0" value="tequilaazul"/>
+                <element label="Torres 5" sequence="1" value="torres 5"/>
+                <element label="Double Black" sequence="2" value="doubleblack"/>
+                <element label="Cerveza" sequence="3" value="cerveza"/>
+                <element label="Agua" sequence="4" value="agua"/>
+                <element label="Coca cola" sequence="5" value="cocacola"/>
+                <element label="Squirt" sequence="6" value="squirt"/>
+                <element label="Agua Mineral" sequence="7" value="aguamineral"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Mesa:" mandatory="true" max_length="40" name="bar_mesa" type="string">
+            <choice>
+                <element label="Mesa 1" sequence="0" value="1"/>
+                <element label="Mesa 2" sequence="1" value="2"/>
+                <element label="Mesa 3" sequence="2" value="3"/>
+                <element label="Mesa 4" sequence="3" value="4"/>
+                <element label="Mesa 5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="Requested for" mandatory="true" max_length="32" name="bar_requested_for" reference="sys_user" type="reference"/>
+        <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>
