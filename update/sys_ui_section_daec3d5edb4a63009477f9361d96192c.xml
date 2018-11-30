@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="eaa369d2db4a630055f95f135e9619d2" sys_domain="global" table="x_58872_needit_jhaysobar" version="3" view="">
+    <sys_ui_section caption="" section_id="daec3d5edb4a63009477f9361d96192c" sys_domain="global" table="x_58872_needit_jhaysobar" version="3" view="Admin">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>08b7fa5adb0e63009477f9361d9619bb</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>b947b65adb0e63009477f9361d961916</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>opened_by</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>88b7fa5adb0e63009477f9361d9619bb</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>3d47b65adb0e63009477f9361d961916</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>bar_mesa</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>0cb7fa5adb0e63009477f9361d9619bb</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>bd47b65adb0e63009477f9361d961916</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>bar_bebida</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>8cb7fa5adb0e63009477f9361d9619bb</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>3147b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>bar_hielo</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>00b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>b147b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>80b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>3547b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>04b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>b547b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>84b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>3947b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>bar_adicionales</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>08b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>b947b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>activity.xml</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 17:50:36</sys_created_on>
-            <sys_id>88b7fa5adb0e63009477f9361d9619bc</sys_id>
+            <sys_created_on>2018-11-30 17:48:48</sys_created_on>
+            <sys_id>3d47b65adb0e63009477f9361d961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="Default view">eaa369d2db4a630055f95f135e9619d2</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_jhaysobar" sys_domain="global" view="d6ec3d5edb4a63009477f9361d961929">daec3d5edb4a63009477f9361d96192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 17:50:36</sys_updated_on>
+            <sys_updated_on>2018-11-30 17:48:48</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -148,22 +148,22 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-30 11:43:30</sys_created_on>
+            <sys_created_on>2018-11-30 13:33:47</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eaa369d2db4a630055f95f135e9619d2</sys_id>
+            <sys_id>daec3d5edb4a63009477f9361d96192c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_58872_needit_jhaysobar</sys_name>
             <sys_overrides/>
             <sys_package display_value="JHAYSOBar" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="JHAYSOBar">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_section_eaa369d2db4a630055f95f135e9619d2</sys_update_name>
+            <sys_update_name>sys_ui_section_daec3d5edb4a63009477f9361d96192c</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-30 11:43:30</sys_updated_on>
+            <sys_updated_on>2018-11-30 13:33:47</sys_updated_on>
             <sys_user/>
-            <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <title>false</title>
+            <view display_value="Admin" name="Admin">d6ec3d5edb4a63009477f9361d961929</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

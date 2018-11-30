@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="JHAYSOBar" max_length="40" name="x_58872_needit_jhaysobar" type="collection">
+    <element audit="true" extends="task" label="JHAYSOBar" max_length="40" name="x_58872_needit_jhaysobar" sizeclass="18" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Adicionales/comentarios:" max_length="160" name="bar_adicionales" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de Bebida:" mandatory="true" max_length="40" name="bar_bebida" type="string">
             <choice>
                 <element label="Tequila Azul" sequence="0" value="tequilaazul"/>
@@ -13,6 +14,7 @@
                 <element label="Agua Mineral" sequence="7" value="aguamineral"/>
             </choice>
         </element>
+        <element default="true" label="Hielo:" max_length="40" name="bar_hielo" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Mesa:" mandatory="true" max_length="40" name="bar_mesa" type="string">
             <choice>
                 <element label="Mesa 1" sequence="0" value="1"/>
